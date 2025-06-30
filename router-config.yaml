@@ -1,0 +1,5 @@
+supergraph:
+  introspection: true
+  listen: 0.0.0.0:4003
+  schema:
+    file: /dist/supergraph.graphql
